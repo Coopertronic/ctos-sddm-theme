@@ -1,7 +1,7 @@
 # Maintainer: Matthew Phillip Cooper <matthew@coopertronic.co.uk>
 pkgname=ctos-sddm-theme
 _destname1="/usr"
-pkgver=1.r3.4712599
+pkgver=1.r4.889add0
 pkgrel=1
 pkgdesc="This installs the SDDM theme for KDE plasma by Matthew Phillip Cooper."
 arch=('any')
